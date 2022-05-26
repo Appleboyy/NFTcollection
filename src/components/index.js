@@ -1,0 +1,10 @@
+export { default as Footer } from "./Footer";
+export { default as Navigation } from "./Navigation";
+export { default as About } from "./sections/About";
+export { default as Faq } from "./sections/Faq";
+export { default as Home } from "./sections/Home";
+export { default as Roadmap } from "./sections/Roadmap";
+export { default as Showcase } from "./sections/Showcase";
+export { default as Team } from "./sections/Team";
+export { default as Logo } from "./Logo";
+export { default as Button } from "./Button";
